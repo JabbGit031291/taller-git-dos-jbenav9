@@ -1,0 +1,5 @@
+{
+	Nombre: "Ejer2"
+	Tipo: "Git"
+	NombreArchivo: "ArchivoStaging2"
+}
